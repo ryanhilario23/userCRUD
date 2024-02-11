@@ -7,10 +7,31 @@
     display:flex;
     justify-content: center;
     align-items: center;
+    ;
 }
 
 
+main{max-width: 80%;}
+
+.usercard{
+    line-height: 50px;
+    font-size: 20px;
+    border: black solid 2px;
+    align-self: flex-start;
+    padding: 20px;
+}
+
+.links{
+    margin-top: 20px;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+a{
+        text-decoration: none;
+}
 h1{
+    margin-top:20px;
     margin-bottom: 30px;
 }
 form {
